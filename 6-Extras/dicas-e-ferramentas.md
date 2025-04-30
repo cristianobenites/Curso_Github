@@ -71,4 +71,4 @@ Nesta seção, você encontrará sugestões de ferramentas e boas práticas que 
 
 ---
 
-> Aplicar boas práticas e usar ferramentas adequadas torna seu trabalho mais produtivo, organizado e profissional. No próximo arquivo, você encontrará sugestões de simulações para treinar Git e GitHub em grupo ou sozinho.
+> Aplicar boas práticas e usar ferramentas adequadas torna seu trabalho mais produtivo, organizado e profissional. No próximo arquivo, você encontrará glossário de termos comuinente utilizados.
